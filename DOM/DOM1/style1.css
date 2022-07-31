@@ -1,0 +1,15 @@
+.three{
+    color : red;
+    background-color : blueviolet;
+    height: 100Px;
+    width: 500Px;
+    border : 1Px solid black
+}
+
+li{
+    color : yellow;
+    background-color :#0b9620;
+    height : 30Px;
+    width : 100Px;
+    border : 1Px solid red
+}
