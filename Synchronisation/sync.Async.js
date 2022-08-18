@@ -6,7 +6,7 @@
 //     console.log("Hiiii")
 // }
 // Arjun()
-// Suraj()                                                //  Asynchronous Operation
+// Suraj()                                                //  Synchronous Operation
 
 /* ...................................................................................... */
 

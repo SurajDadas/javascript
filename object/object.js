@@ -432,13 +432,15 @@ class PNB extends Worldbank{
         super(fn,ln)
         this.IFSC = IFSC
     }
-    super()
+
     deposite(){
+        super.display()
         console.log('deposite to PNB')
     }
     withdrawl(){
-        console.log('withdrawl from PNB')}
-
+        console.log('withdrawl from PNB')
+        
+    }
 }
 
 let surajSBI =new SBI('Suraj','Dadas',413116)
